@@ -1,4 +1,4 @@
 # first-demo
 My first github repo
 <br>
-Author-Akhand
+Author-Akhand Dwivedi
